@@ -1,0 +1,28 @@
+MAX node A
+MIN node B
+MAX node E
+Leaf 2 = 2
+Leaf 6 = 6
+Gia tri MAX E = 6
+MAX node F
+Leaf 5 = 5
+Leaf 6 = 6
+>>> CAT TIA tai MAX F, bo: 3 
+Gia tri MIN B = 6
+MIN node C
+Leaf 7 = 7
+Leaf 8 = 8
+MAX node G
+Leaf 9 = 9
+>>> CAT TIA tai MAX G, bo: 1 3 
+Gia tri MIN C = 7
+MIN node D
+MAX node H
+Leaf 5 = 5
+Leaf 2 = 2
+Leaf 4 = 4
+Gia tri MAX H = 5
+>>> CAT TIA tai MIN D, bo: I J 
+Gia tri MAX A = 7
+====================
+Ket qua cuoi cung (A) = 7
